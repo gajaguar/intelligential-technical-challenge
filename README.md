@@ -63,3 +63,39 @@ array, at the end it will return this last one.
 ## Code
 
 A implementation of this algorithm is available [here](snail/main.py).
+
+## Build
+
+### Docker
+
+#### Fast setup (only linux os)
+
+```bash
+# build docker container.
+sh scripts/install
+
+# execute the script.
+sh scripts/run
+```
+
+#### Manual
+
+```bash
+# create a docker image
+docker-compose build
+```
+
+```bash
+# build for execution
+docker-compose run --rm app
+```
+
+### Local
+
+```bash
+# on linux os:
+python3 app/main.py
+
+# on widows os:
+py app\main.py
+```
