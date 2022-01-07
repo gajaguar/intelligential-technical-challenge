@@ -66,6 +66,8 @@ A implementation of this algorithm is available [here](snail/main.py).
 
 ## Build
 
+> In order to it works properly, first copy `.env.example` file as `.env`.
+
 ### Docker
 
 #### Fast setup (only linux os)
