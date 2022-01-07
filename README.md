@@ -62,7 +62,7 @@ array, at the end it will return this last one.
 
 ## Code
 
-A implementation of this algorithm is available [here](snail/main.py).
+A implementation of this algorithm is available [here](https://github.com/gajaguar/logical-challenge-1/blob/main/app/main.py).
 
 ## Build
 
