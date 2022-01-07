@@ -94,7 +94,7 @@ docker-compose build
 
 ```bash
 # build for execution
-docker-compose run --rm app
+docker-compose run --rm dev
 ```
 
 ### Local
