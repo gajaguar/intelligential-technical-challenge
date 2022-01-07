@@ -101,3 +101,8 @@ python3 app/main.py
 # on widows os:
 py app\main.py
 ```
+
+## Screenshots
+
+![instructions](assets/instructions-screenshot.png)
+![result](assets/result-screenshot.png )
