@@ -60,6 +60,10 @@ array, at the end it will return this last one.
 18. Return `result`.
 19. End.
 
+### Code
+
+A implementation of this algorithm is available [here](snail/main.py).
+
 ## Exercise 2
 
 ## Exercise 3
