@@ -1,14 +1,14 @@
-# Intelligential Technical Challenge
+# Logical Challenge #1
 
 By: [G.A.JAGUAR](https://github.com/gajaguar)
 
-## Exercise 1
+## Description
 
 Given a bidimentional array `n * m`, develop a function that generates an
 unidimentional array `1 * nm` which elements correspond with original array's
 elements obtained by following a clockwise snail trajectory.
 
-### Example
+## Example
 
 Input:
 
@@ -26,7 +26,7 @@ Output:
 [ 1, 2, 3, 6, 9, 8, 7, 4, 5 ]
 ```
 
-### Solution
+## Solution
 
 There is a four basic movements that can be performed by _the snail_: right,
 down, left and up (in that order, I mean clockwise). Each lap of this curious
@@ -38,7 +38,7 @@ original array.
 On each step of our dear friend, it will store the current value into a new
 array, at the end it will return this last one.
 
-### Algorithm
+## Algorithm
 
 1. Begin.
 2. Read `array`
@@ -60,10 +60,6 @@ array, at the end it will return this last one.
 18. Return `result`.
 19. End.
 
-### Code
+## Code
 
 A implementation of this algorithm is available [here](snail/main.py).
-
-## Exercise 2
-
-## Exercise 3
