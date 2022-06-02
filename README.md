@@ -1,4 +1,4 @@
-# Logical Challenge #1 ![version](https://img.shields.io/github/v/tag/gajaguar/logical-challenge-1?label=version&logo=github)
+# The Snail Game ![version](https://img.shields.io/github/v/tag/gajaguar/the-snail-game?label=version&logo=github)
 
 By: [G.A.JAGUAR](https://github.com/gajaguar)
 
